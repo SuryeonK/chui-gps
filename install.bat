@@ -8,3 +8,5 @@ REM git
 cinst git.install
 REM Android SDK
 cinst android-sdk
+REM Dropbox
+cinst dropbox
